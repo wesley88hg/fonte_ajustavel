@@ -2,6 +2,6 @@
 
 
 * Kauã
-* joão
-* wesley
-* icaro
+* João
+* Wesley
+* Icaro
